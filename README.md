@@ -1,6 +1,6 @@
 # 👋 Concevoir, coder, optimiser : bienvenue dans mon univers !
 
-🚀 ** Laura Darras, Développeuse Front-End | Ancienne Designer UI/UX | Passionnée par mon métier **  
+🚀 ** Laura Darras, Intégratrice Front-End & Designer UI/UX **  
 
 ---
 
@@ -15,7 +15,7 @@ je n’ai pas peur de sortir de ma zone de confort pour relever de nouveaux déf
 - Comprendre et appliquer les bonnes pratiques en accessibilité (a11y)
 - Avoir la satisfaction de voir son code en production et utilisé par des milliers de personnes
 
-🎯 **Mon objectif** : Obtenir un poste en développement front-end et continuer d’évoluer dans l’univers du web.  
+🎯 **Mon objectif** : Continuer d’évoluer dans l’univers du web.  
 
 ---
 
