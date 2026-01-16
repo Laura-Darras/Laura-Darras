@@ -24,10 +24,10 @@ Je ne me contente pas de livrer un design, je résous vos vrais problèmes :
 
 ## 🛠️ Compétences  
 
-- 🎨 **Mes expertises** :  
-- 🔍 UX : Interviews, Ateliers, Tests utilisateurs, Analyses de données, User flows, Personas, Jobs to be done, Site map
-- 🖌️ UI : Wireframes, Prototypes, Accessibilité, Design systems, Composants UI, Guidelines
-- 💻 Front-end : HTML, SCSS, Javascript, Bootstrap, Angular, Svelt, Wordpress
+🎨 **Mes expertises** :  
+-  UX : Interviews, Ateliers, Tests utilisateurs, Analyses de données, User flows, Personas, Jobs to be done, Site map
+-  UI : Wireframes, Prototypes, Accessibilité, Design systems, Composants UI, Guidelines
+-  Front-end : HTML, SCSS, Javascript, Bootstrap, Angular, Svelt, Wordpress
 
 🌐 **Langages & Frameworks** :  
 - HTML, CSS, SCSS, JavaScript
