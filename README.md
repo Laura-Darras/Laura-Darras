@@ -54,7 +54,7 @@ Je ne me contente pas de livrer un design, je résous vos vrais problèmes :
 
 - 📧 **Email** : darras.laura@gmail.com 
 - 💼 **LinkedIn** : [Profils Linkedin](https://www.linkedin.com/in/laura-darras/)
-- 💼 **Malt** : [Profils Linkedin](https://www.malt.fr/profile/lauradarras)
+- 💼 **Malt** : [Profils Malt](https://www.malt.fr/profile/lauradarras)
 - 🌍 **Design** : [Behance](https://www.behance.net/darraslaura)  
 - 🎨 **Figma** : [Figma](https://www.figma.com/@lauradarras)  
 
