@@ -1,4 +1,4 @@
-![Bannière](./img/banniere_GITHUB.jpg)
+![Bannière](./img/img/banniere_LINKEDIN_2026-01-09.jpg)
 # 👋 Concevoir, coder, optimiser : bienvenue dans mon univers !
 
 🚀 ** Laura Darras, Intégratrice Front-End & Designer UI/UX **  
