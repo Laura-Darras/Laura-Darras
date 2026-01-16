@@ -1,67 +1,63 @@
 ![Bannière](./img/banniere_LINKEDIN_2026-01-09.jpg)
 # 👋 Concevoir, coder, optimiser : bienvenue dans mon univers !
 
-🚀 ** Laura Darras, Intégratrice Front-End & Designer UI/UX **  
-
----
-
+<br><br>
 ## 👩‍💻 À propos de moi  
 
-Designer aux multiples casquettes (Graphisme, UI/UX, Intégration Front-End). Curieuse et déterminée, après près de 10 ans à jongler entre design et tech,
-je n’ai pas peur de sortir de ma zone de confort pour relever de nouveaux défis techniques et monter en compétences.
+Moi c'est Laura, Product Designer & Full-stack Designer.
 
-💡 **Ce que j’aime** :  
-- Explorer et apprendre constamment de nouvelles technologies
-- Trouver des solutions à des problèmes complexes
-- Comprendre et appliquer les bonnes pratiques en accessibilité (a11y)
-- Avoir la satisfaction de voir son code en production et utilisé par des milliers de personnes
+- 🎨 +10 ans d'expérience en design et tech
+- 🧠 Experte en interfaces simples, durables et cohérentes
+- 🖥 Analyse des besoins, définition des parcours, conception d'interfaces & développement front-end
 
-🎯 **Mon objectif** : Continuer d’évoluer dans l’univers du web.  
 
----
+💡 **Pourquoi faire appel à moi ?**
+
+Je ne me contente pas de livrer un design, je résous vos vrais problèmes :
+
+- ✅ **Gagner du temps** : prise en charge complète du projet pour que vos équipes se concentrent sur leur cœur de métier
+- ✅ **Assurer la qualité** : solutions fiables, cohérentes et centrées utilisateur
+- ✅ **Faciliter la collaboration** : lien entre design et technique pour avancer vite et sereinement
+- ✅ **Créer de la valeur** : expériences pertinentes qui séduisent vos utilisateurs et soutiennent vos objectifs
+
+<br>
 
 ## 🛠️ Compétences  
+
+- 🎨 **Mes expertises** :  
+- 🔍 UX : Interviews, Ateliers, Tests utilisateurs, Analyses de données, User flows, Personas, Jobs to be done, Site map
+- 🖌️ UI : Wireframes, Prototypes, Accessibilité, Design systems, Composants UI, Guidelines
+- 💻 Front-end : HTML, SCSS, Javascript, Bootstrap, Angular, Svelt, Wordpress
 
 🌐 **Langages & Frameworks** :  
 - HTML, CSS, SCSS, JavaScript
 - Bootstrap, Wordpress (builder DIVI, ELEMENTOR)
 - Angular JS, Svelte
 
-🎨 **UI/UX & Design** :  
-- Figma, Adobe XD, Photoshop, Illustrator, Indesign, Acrobat, Bridge  
-- Accessibilité web & Responsive Design
+🔧 **Outils** :  
+- Design : Figma, Adobe Suite
+- Tech : VS Code, Webstorm, GitHub, Bugherd
+- Collaboration : Monday, Slack, Notion, Teams
 
 🤝 **Gestion de projet** :  
 - Monday, Slack, Google suite, Notion
 
-🔧 **Autres outils** :  
-- Git & GitHub  
-- SEO technique  
-
----
+<br><br>
 
 ## 📂 Projets  
 
-📌 **[Nom du projet 1](Lien_GitHub)** – Brève description du projet (technos utilisées)  
-📌 **[Nom du projet 2](Lien_GitHub)** – Brève description du projet (technos utilisées)  
-📌 **[Nom du projet 3](Lien_GitHub)** – Brève description du projet (technos utilisées)  
+📌 **[O'chat](https://github.com/Laura-Darras/DEV_OCHAT)** – Application de messagerie interactive permettant conversations utilisateurs avec IA intégrée (Svelt,Bootstrap, scss)
 
-*(Retrouve tous mes projets sur mon profil GitHub !)*  
-
----
-
-## 📄 Mon CV  
-
-📝 **Mon CV est juste ici** 👉 [Télécharger](https://laura-darras.fr/assets/img/laura-darras.pdf) 👈
-
-📩 **Curieuse et toujours partante pour échanger, n'hésitez pas à me contacter ! 😃**
-
----
+<br><br>
 
 ## 📫 Contact  
 
-📧 **Email** : darras.laura@gmail.com 
-💼 **LinkedIn** : [Profils Linkedin](https://www.linkedin.com/in/laura-darras/)
-🌍 **Portfolio** : [Behance](https://www.behance.net/darraslaura)  
+- 📧 **Email** : darras.laura@gmail.com 
+- 💼 **LinkedIn** : [Profils Linkedin](https://www.linkedin.com/in/laura-darras/)
+- 💼 **Malt** : [Profils Linkedin](https://www.malt.fr/profile/lauradarras)
+- 🌍 **Design** : [Behance](https://www.behance.net/darraslaura)  
+- 🎨 **Figma** : [Figma](https://www.figma.com/@lauradarras)  
 
-Merci d'avoir visité mon profil ! 🚀✨  
+<br><br>
+
+👋 À très vite,
